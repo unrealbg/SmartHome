@@ -100,4 +100,4 @@ If you encounter any problems or issues, please open an issue on this GitHub rep
 * 0.1
 - Initial Release
 ### License
-#### This project is licensed under the [MIT License](https://github.com/unrealbg/smarthome/-/blob/main/LICENSE).
+#### This project is licensed under the [MIT License](https://github.com/unrealbg/SmartHome/blob/master/LICENSE.txt).
